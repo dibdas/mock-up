@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.container-body{
+    width: 80vw;
+    margin-inline: auto;
+    margin-block:1rem ;
+
+    padding: 10rem;
+    display: block;
+    
+}
+.left-block{
+    display: inline-block;
+    width: 50%;
+  
+    padding: 2rem;
+}
+.right-block{
+    float: right;
+}
+h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    
+}
+.yellow-five{
+    color:rgba(230, 212, 19, 0.926);
+    text-transform: uppercase;
+
+}
+.hired{
+    font-size: 1.4rem;
+    padding-block: 0.7rem;
+}
+
+.button{
+    display: inline-block;
+  
+    border-radius: 20px 20px;
+    background-color: rgba(50, 80, 187, 0.83);
+    padding: 0.8rem;
+    margin-right: 0.2rem;
+    color: aliceblue;
+    margin-block: 1rem;
+}
+.resume-pics{
+    float: right;
+    width:20rem;
+    
+    
+}
